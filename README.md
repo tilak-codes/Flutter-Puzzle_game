@@ -2,18 +2,7 @@
 
 A new Flutter application.
 
-## Getting Started
+SOME SCREENSHOTS OF MY PROJECT
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-x-special/nautilus-clipboard
-copy
-file:///home/KING_tilak/Desktop/Screenshot_1588178092.png
+![Screenshot_1588178092](https://user-images.githubusercontent.com/62074842/80632005-3cda4b80-8a74-11ea-89d2-cddbbe02b058.png)
+![Screenshot_1588178104](https://user-images.githubusercontent.com/62074842/80632127-65fadc00-8a74-11ea-845c-5ec22102037d.png)
